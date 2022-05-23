@@ -1,12 +1,12 @@
 {    
-     "name":  "my -awesome-app  -<initials>", 
+     "name":  "my -awesome-app  -DMB", 
      "version":  "0.1.0", 
      "description":  "Hello World in Node with Express", 
      "main":  "app.js",
      "scripts": {     
         "start":  "node app.js" 
      },
-     "author": "<your name>", 
+     "author": "David Britton", 
      "license":  "ISC", 
      "dependencies": {
         "express":  "^4.17.1"     
